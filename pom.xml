@@ -112,7 +112,7 @@
 
     <distributionManagement>
         <repository>
-            <id>bintray-maven-monte-media</id>
+            <id>bintray</id>
             <name>lordofthejars-maven-monte-media</name>
             <url>https://api.bintray.com/maven/lordofthejars/maven/media-monte</url>
         </repository>
