@@ -8,7 +8,7 @@
     <artifactId>montemedia</artifactId>
     <version>0.7.7-SNAPSHOT</version>
     <description>The Monte Media Library is a Java library for processing media data.</description>
-    <url>https://github.com/lordofthejars/nosql-unit</url>
+    <url>https://github.com/lordofthejars/monte-media</url>
     <issueManagement>
         <system>github</system>
         <url>https://github.com/lordofthejars/monte-media/issues</url>
