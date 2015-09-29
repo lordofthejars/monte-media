@@ -19,6 +19,10 @@
         <url>scm:git:git@github.com:lordofthejars/monte-media.git</url>
     </scm>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
     <licenses>
         <license>
             <name>Lesser General Public License LGPL 3</name>
