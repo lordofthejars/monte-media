@@ -110,13 +110,6 @@
         </plugins>
     </build>
 
-    <distributionManagement>
-        <repository>
-            <id>bintray</id>
-            <name>lordofthejars-maven-monte-media</name>
-            <url>https://api.bintray.com/maven/lordofthejars/maven/media-monte</url>
-        </repository>
-    </distributionManagement>
     <repositories>
         <repository>
             <id>com.springsource.repository.bundles.external</id>
